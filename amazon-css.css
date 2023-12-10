@@ -178,6 +178,7 @@
     align-items: start;
 }
 .firstbodymessage{
+    border-radius: 5px;
     background-color:#f5f6f6;
     display: flex;
     justify-content: center;
@@ -220,6 +221,7 @@
     justify-content: space-evenly;
 }
 .box{
+    border-radius: 5px;
     background-color: whitesmoke;
     padding: 20px 0px 15px;
     width: 24%;
